@@ -14,7 +14,8 @@ Uvicorn (optional, for running the application)
 
 Clone the repository:
 
-`git clone https://github.com/your-username/your-repo.git`
+`git clone https://github.com/nehajalan13/FastAPI-Student-Data-Endpoint`
+
 `cd your-repo`
 
 Install dependencies:
