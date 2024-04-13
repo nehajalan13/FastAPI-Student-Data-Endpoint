@@ -1,0 +1,410 @@
+[
+    {
+        "student_id": 1,
+        "first_name": "Janifer",
+        "last_name": "Skipsey",
+        "email": "jskipsey0@fema.gov",
+        "gender": "Female",
+        "address": "Apt 1636, Pin - 345623"
+    },
+    {
+        "student_id": 2,
+        "first_name": "Austina",
+        "last_name": "Antcliff",
+        "email": "aantcliff1@statcounter.com",
+        "gender": "Female",
+        "address": "Room 1551, Pin - 086745"
+    },
+    {
+        "student_id": 3,
+        "first_name": "Timothee",
+        "last_name": "Simonnot",
+        "email": "tsimonnot2@go.com",
+        "gender": "Male",
+        "address": "PO Box 5831, Pin - 437688"
+    },
+    {
+        "student_id": 4,
+        "first_name": "Alasdair",
+        "last_name": "Chrishop",
+        "email": "achrishop3@cbc.ca",
+        "gender": "Male",
+        "address": "5th Floor, Pin - 243649"
+    },
+    {
+        "student_id": 5,
+        "first_name": "Cristin",
+        "last_name": "Bransom",
+        "email": "cbransom4@apple.com",
+        "gender": "Female",
+        "address": "PO Box 34977, Pin - 563892"
+    },
+    {
+        "student_id": 6,
+        "first_name": "Broddy",
+        "last_name": "Goman",
+        "email": "bgoman5@apache.org",
+        "gender": "Male",
+        "address": "Room 1785, Pin - 539168"
+    },
+    {
+        "student_id": 7,
+        "first_name": "Caresa",
+        "last_name": "Dowtry",
+        "email": "cdowtry6@bigcartel.com",
+        "gender": "Female",
+        "address": "Suite 15, Pin - 598774"
+    },
+    {
+        "student_id": 8,
+        "first_name": "Lance",
+        "last_name": "Howel",
+        "email": "lhowel7@youtube.com",
+        "gender": "Male",
+        "address": "PO Box 25871, Pin - 589168"
+    },
+    {
+        "student_id": 9,
+        "first_name": "Bil",
+        "last_name": "Havock",
+        "email": "bhavock8@msu.edu",
+        "gender": "Male",
+        "address": "PO Box 93399, Pin - 967187"
+    },
+    {
+        "student_id": 10,
+        "first_name": "Hadley",
+        "last_name": "Joutapaitis",
+        "email": "hjoutapaitis9@barnesandnoble.com",
+        "gender": "Male",
+        "address": "Suite 66, Pin - 687967"
+    },
+    {
+        "student_id": 11,
+        "first_name": "Lucita",
+        "last_name": "Hollerin",
+        "email": "lhollerina@sciencedaily.com",
+        "gender": "Female",
+        "address": "Suite 83, Pin - 429799"
+    },
+    {
+        "student_id": 12,
+        "first_name": "Roselle",
+        "last_name": "McArley",
+        "email": "rmcarleyb@wikipedia.org",
+        "gender": "Female",
+        "address": "Apt 923, Pin - 264899"
+    },
+    {
+        "student_id": 13,
+        "first_name": "Harwilll",
+        "last_name": "O'Caherny",
+        "email": "hocahernyc@biglobe.ne.jp",
+        "gender": "Male",
+        "address": "Apt 1387, Pin - 147958"
+    },
+    {
+        "student_id": 14,
+        "first_name": "Gracie",
+        "last_name": "Arckoll",
+        "email": "garckolld@hao123.com",
+        "gender": "Female",
+        "address": "Suite 59, Pin - 143763"
+    },
+    {
+        "student_id": 15,
+        "first_name": "Shela",
+        "last_name": "Elsdon",
+        "email": "selsdone@github.io",
+        "gender": "Bigender",
+        "address": "Apt 526, Pin - 676397"
+    },
+    {
+        "student_id": 16,
+        "first_name": "Catlaina",
+        "last_name": "Moan",
+        "email": "cmoanf@mashable.com",
+        "gender": "Female",
+        "address": "Room 265, Pin - 234748"
+    },
+    {
+        "student_id": 17,
+        "first_name": "Gwyneth",
+        "last_name": "Dran",
+        "email": "gdrang@foxnews.com",
+        "gender": "Female",
+        "address": "Room 425, Pin - 678629"
+    },
+    {
+        "student_id": 18,
+        "first_name": "Ximenes",
+        "last_name": "Baskett",
+        "email": "xbasketth@discuz.net",
+        "gender": "Male",
+        "address": "Apt 1892, Pin - 852482"
+    },
+    {
+        "student_id": 19,
+        "first_name": "Gwenni",
+        "last_name": "Kach",
+        "email": "gkachi@fastcompany.com",
+        "gender": "Genderqueer",
+        "address": "1st Floor, Pin - 913748"
+    },
+    {
+        "student_id": 20,
+        "first_name": "Seumas",
+        "last_name": "Penright",
+        "email": "spenrightj@narod.ru",
+        "gender": "Male",
+        "address": "Suite 23, Pin - 346876"
+    },
+    {
+        "student_id": 21,
+        "first_name": "Orin",
+        "last_name": "Wetton",
+        "email": "owettonk@feedburner.com",
+        "gender": "Male",
+        "address": "PO Box 31145, Pin - 287965"
+    },
+    {
+        "student_id": 22,
+        "first_name": "Gustie",
+        "last_name": "Beere",
+        "email": "gbeerel@comcast.net",
+        "gender": "Female",
+        "address": "Room 1304, Pin - 689658"
+    },
+    {
+        "student_id": 23,
+        "first_name": "Blair",
+        "last_name": "Filinkov",
+        "email": "bfilinkovm@walmart.com",
+        "gender": "Male",
+        "address": "Room 1086, Pin - 753491"
+    },
+    {
+        "student_id": 24,
+        "first_name": "Delila",
+        "last_name": "Antonellini",
+        "email": "dantonellinin@businesswire.com",
+        "gender": "Female",
+        "address": "Apt 307, Pin - 876159"
+    },
+    {
+        "student_id": 25,
+        "first_name": "Haywood",
+        "last_name": "Elvey",
+        "email": "helveyo@i2i.jp",
+        "gender": "Male",
+        "address": "Apt 242, Pin - 762345"
+    },
+    {
+        "student_id": 26,
+        "first_name": "Emlyn",
+        "last_name": "Dumphry",
+        "email": "edumphryp@auda.org.au",
+        "gender": "Male",
+        "address": "Room 218, Pin - 275348"
+    },
+    {
+        "student_id": 27,
+        "first_name": "Gasper",
+        "last_name": "Fitzsymonds",
+        "email": "gfitzsymondsq@walmart.com",
+        "gender": "Male",
+        "address": "Suite 9, Pin - 244675"
+    },
+    {
+        "student_id": 28,
+        "first_name": "Aldus",
+        "last_name": "Sobczak",
+        "email": "asobczakr@sfgate.com",
+        "gender": "Male",
+        "address": "Room 1278, Pin - 751487"
+    },
+    {
+        "student_id": 29,
+        "first_name": "Lavina",
+        "last_name": "Minette",
+        "email": "lminettes@nsw.gov.au",
+        "gender": "Female",
+        "address": "7th Floor, Pin - 674568"
+    },
+    {
+        "student_id": 30,
+        "first_name": "Emelda",
+        "last_name": "Rossander",
+        "email": "erossandert@youtube.com",
+        "gender": "Female",
+        "address": "Apt 34, Pin - 786478"
+    },
+    {
+        "student_id": 31,
+        "first_name": "Florenza",
+        "last_name": "Labbet",
+        "email": "flabbetu@ucoz.ru",
+        "gender": "Female",
+        "address": "Apt 1144, Pin - 357668"
+    },
+    {
+        "student_id": 32,
+        "first_name": "Hall",
+        "last_name": "Sudy",
+        "email": "hsudyv@yale.edu",
+        "gender": "Male",
+        "address": "Suite 42, Pin - 674678+"
+    },
+    {
+        "student_id": 33,
+        "first_name": "Lenci",
+        "last_name": "Cunnane",
+        "email": "lcunnanew@umn.edu",
+        "gender": "Male",
+        "address": "Apt 672"
+    },
+    {
+        "student_id": 34,
+        "first_name": "Grier",
+        "last_name": "Jestico",
+        "email": "gjesticox@princeton.edu",
+        "gender": "Female",
+        "address": "6th Floor"
+    },
+    {
+        "student_id": 35,
+        "first_name": "Verney",
+        "last_name": "Druett",
+        "email": "vdruetty@qq.com",
+        "gender": "Male",
+        "address": "Suite 40"
+    },
+    {
+        "student_id": 36,
+        "first_name": "Obadias",
+        "last_name": "Fetherstan",
+        "email": "ofetherstanz@census.gov",
+        "gender": "Male",
+        "address": "Apt 154"
+    },
+    {
+        "student_id": 37,
+        "first_name": "Andy",
+        "last_name": "Roggero",
+        "email": "aroggero10@slstudent_ideshare.net",
+        "gender": "Male",
+        "address": "PO Box 70585"
+    },
+    {
+        "student_id": 38,
+        "first_name": "Galina",
+        "last_name": "Franca",
+        "email": "gfranca11@csmonitor.com",
+        "gender": "Female",
+        "address": "Room 1815"
+    },
+    {
+        "student_id": 39,
+        "first_name": "Pietro",
+        "last_name": "Ledgister",
+        "email": "pledgister12@amazon.com",
+        "gender": "Agender",
+        "address": "Suite 11"
+    },
+    {
+        "student_id": 40,
+        "first_name": "Douglass",
+        "last_name": "Foresight",
+        "email": "dforesight13@home.pl",
+        "gender": "Male",
+        "address": "Suite 75"
+    },
+    {
+        "student_id": 41,
+        "first_name": "Josh",
+        "last_name": "Burrill",
+        "email": "jburrill14@chron.com",
+        "gender": "Male",
+        "address": "Apt 1128"
+    },
+    {
+        "student_id": 42,
+        "first_name": "Dory",
+        "last_name": "Derham",
+        "email": "dderham15@telegraph.co.uk",
+        "gender": "Female",
+        "address": "Apt 309"
+    },
+    {
+        "student_id": 43,
+        "first_name": "Lucita",
+        "last_name": "Broadey",
+        "email": "lbroadey16@nyu.edu",
+        "gender": "Female",
+        "address": "Room 188"
+    },
+    {
+        "student_id": 44,
+        "first_name": "Sibylle",
+        "last_name": "Rangell",
+        "email": "srangell17@wsj.com",
+        "gender": "Female",
+        "address": "PO Box 14601"
+    },
+    {
+        "student_id": 45,
+        "first_name": "Bradley",
+        "last_name": "Heinschke",
+        "email": "bheinschke18@infoseek.co.jp",
+        "gender": "Male",
+        "address": "Room 955"
+    },
+    {
+        "student_id": 46,
+        "first_name": "Charla",
+        "last_name": "Firth",
+        "email": "cfirth19@cdbaby.com",
+        "gender": "Female",
+        "address": "Suite 49"
+    },
+    {
+        "student_id": 47,
+        "first_name": "Darb",
+        "last_name": "Woolforde",
+        "email": "dwoolforde1a@wikispaces.com",
+        "gender": "Male",
+        "address": "Room 1784"
+    },
+    {
+        "student_id": 48,
+        "first_name": "Darnall",
+        "last_name": "Masarrat",
+        "email": "dmasarrat1b@stumbleupon.com",
+        "gender": "Male",
+        "address": "Room 1628"
+    },
+    {
+        "student_id": 49,
+        "first_name": "Brandi",
+        "last_name": "Skells",
+        "email": "bskells1c@slate.com",
+        "gender": "Female",
+        "address": "13th Floor"
+    },
+    {
+        "student_id": 50,
+        "first_name": "Daffie",
+        "last_name": "Gaines",
+        "email": "dgaines1d@printfriendly.com",
+        "gender": "Agender",
+        "address": "Room 63"
+    },
+    {
+        "student_id": 89127,
+        "first_name": "Neha",
+        "last_name": "Jalan",
+        "email": "new@student.com",
+        "gender": "Female",
+        "address": "Dam Road Chandil"
+    }
+]
