@@ -97,6 +97,7 @@ The JSON file (Data.json) should contain student data in the following format:
 **Endpoint Details**
 
 GET /student_id: Fetches student details based on the provided student_id.
+
 POST /student_id: Adds a new student with the provided student_id and details to the JSON file.
 
 
